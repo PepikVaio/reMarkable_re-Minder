@@ -1,15 +1,15 @@
 {
   "info": {
-    "title": "Extractor!",
-    "version": "1.1",
+    "title": "re-Minder!",
+    "version": "1.0",
     "developer": "@Wajsar_Josef",
-    "github_path": "https://github.com/PepikVaio/reMarkable_Extractor",
+    "github_path": "https://github.com/PepikVaio/reMarkable_re-Minder",
     "email": "Wajsar.Josef@hotmail.com",
 
     "lang_en": {
       "welcome": [
         "┃*** Welcome to Apple Shortcuts! ***",
-        "┃Create your own *pdf like magic"
+        "┃Create tasks like magic"
       ],
       "title": "Name:",
       "version": "Version:",
@@ -17,15 +17,15 @@
       "description": [
         "*** Description: ***",
         "-------------------",
-        "  * Create *pdf on your reMarkable.",
-        "  * Create *text on your reMarkable."
+        "  * Create tasks on your iPhone.",
+        "  * Send them regularly to your reMarkable."
       ]
     },
     
     "lang_cs": {
       "welcome": [
         "┃*** Vitejte v Apple Shortcuts! ***",
-        "┃Vytvořte si vlastní *pdf jako kouzlo"
+        "┃Vytvářejte úkoly jako kouzlo"
       ],
       "title": "Název:",
       "version": "Verze:",
@@ -33,8 +33,8 @@
       "description": [
         "*** Popis: ***",
         "-------------",
-        "  * Vytvářejte *pdf na svém reMarkable.",
-        "  * Vytvářejte *text na svém reMarkable."
+        "  * Vytvářejte úkoly na svém iPhone.",
+        "  * Pravidelně je posílejte na svůj reMarkable."
       ]
     }
   },
@@ -59,14 +59,7 @@
         "",
         "*** News in version: ***",
         "------------------------",
-        "  * Closes #3",
-        "  ** Minor code debugging",
-        "  * Closes #4",
-        "  ** Option to open in another application",
-        "  * Closes #6",
-        "  ** Change text in 'README.md'",
-        "  * Change the name of the variable",
-        "  ** Minor code debugging"
+        "  * first release"
       ]
     },
 
@@ -88,14 +81,7 @@
         "",
         "*** Novinky ve verzi: ***",
         "------------------------",
-        "  * Uzavírá - #3",
-        "  ** Drobné ladění kódu",
-        "  * Uzavírá - #4",
-        "  ** Možnost otevřít v jiné aplikaci",
-        "  * Uzavírá - #6",
-        "  ** Změna textu v 'README.md'",
-        "  * Změna názvu proměnné",
-        "  ** Drobné ladění kódu"
+        "  * první vydání"
       ]
     }
   },
@@ -153,16 +139,15 @@
     "icon_Back": "❮ ",
       
     "lang_en": {
-      "title": "Select extraction style!",
-      "page": "Page",
+      "title": "Select the enrolment style!",
 
       "01": {
-        "title": "Extract as text",
-        "content": "Plain text is extracted, without images ..."
+        "title": "Write a note",
+        "content": "Write a note using the keyboard ..."
       },
       "02": {
-        "title": "Extract as images",
-        "content": "The appearance of the pdf will not change, the images will be preserved ..."
+        "title": "Dictate notes",
+        "content": "Write a note using dictation ..."
       },
       "03": {
         "title": "Settings",
@@ -170,8 +155,8 @@
         "label_01": "About",
         "label_02": "Send feedback",
         "label_03": "Switch language to Czech",
-        "label_04_01": "Opening with other apps",
-        "label_04_02": "Opening with the reMarkable app",
+        "label_04_01": "",
+        "label_04_02": "",
         "label_05": "Reset settings",
         "label_06": "Back",
         "content_02_01": "Device:",
@@ -186,16 +171,15 @@
     },
 
     "lang_cs": {
-      "title": "Vyberte styl extrakce!",
-      "page": "strana",
+      "title": "Vyberte styl zápisu!",
 
       "01": {
-        "title": "Extrahovat jako text",
-        "content": "Vyextrahuje se prostý text, bez obrázků ..."
+        "title": "Zapsat poznámku",
+        "content": "Zapište poznámku pomocí klávesnice ..."
       },
       "02": {
-        "title": "Extrahovat jako obrázky",
-        "content": "Vzhled pdf se nezmění, obrázky budou zachované ..."
+        "title": "Nadiktovat poznámku",
+        "content": "Zapište poznámku pomocí diktování ..."
       },
       "03": {
         "title": "Nastavení",
@@ -203,8 +187,8 @@
         "label_01": "O zkratce",
         "label_02": "Poslat zpětnou vazbu",
         "label_03": "Přepnout jazyk na Angličtinu",
-        "label_04_01": "Otevírání pomocí jiných aplikací",
-        "label_04_02": "Otevírání pomocí reMarkable aplikace",
+        "label_04_01": "",
+        "label_04_02": "",
         "label_05": "Resetovat nastavení",
         "label_06": "Zpět",
         "content_02_01": "Zařízení:",
