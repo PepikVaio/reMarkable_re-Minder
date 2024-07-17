@@ -75,12 +75,18 @@
 
       "01": {
         "title": "Zapsat poznámku",
-        "content": "Zapište poznámku pomocí klávesnice ..."
+        "content": "Zapište poznámku pomocí klávesnice ...",
+
+        "content_02": "Zapiš text poznámky"
       },
       "02": {
         "title": "Nadiktovat poznámku",
         "content": "Zapište poznámku pomocí diktování ..."
       },
+
+      "new_List": "+ nový seznam",
+      "choose_List": "Do kterého seznamu přidat poznámku?",
+
       "99": {
         "label_04": "",
       }
