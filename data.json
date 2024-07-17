@@ -68,6 +68,8 @@
       },
 
       "new_List": "+ new list",
+      "new_List": "Enter a name for the new list",
+
       "choose_List": "Which list to add a note to?",
 
       "99": {
@@ -81,7 +83,7 @@
       "01": {
         "title": "Zapsat poznámku",
         "content": "Zapište poznámku pomocí klávesnice ...",
-        "content_02": "Zapiš text poznámky"
+        "content_02": "Zapište text poznámky."
       },
       "02": {
         "title": "Nadiktovat poznámku",
@@ -89,6 +91,8 @@
       },
 
       "new_List": "+ nový seznam",
+      "new_List_Name": "Zadejte název nového seznamu.",
+
       "choose_List": "Do kterého seznamu přidat poznámku?",
 
       "99": {
