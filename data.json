@@ -59,12 +59,17 @@
 
       "01": {
         "title": "Write a note",
-        "content": "Write a note using the keyboard ..."
+        "content": "Write a note using the keyboard ...",
+        "content_02": "Write the text of the note"
       },
       "02": {
         "title": "Dictate notes",
         "content": "Write a note using dictation ..."
       },
+
+      "new_List": "+ new list",
+      "choose_List": "Which list to add a note to?",
+
       "99": {
         "label_04": "",
       }
@@ -76,7 +81,6 @@
       "01": {
         "title": "Zapsat poznámku",
         "content": "Zapište poznámku pomocí klávesnice ...",
-
         "content_02": "Zapiš text poznámky"
       },
       "02": {
