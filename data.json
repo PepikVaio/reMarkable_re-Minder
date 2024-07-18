@@ -72,6 +72,9 @@
 
       "choose_List": "Which list do you want to add a note to?",
 
+      "title_Checkbox": "Insert checkbox",
+      "content_Checkbox": "Just press the checkbox and then 'OK'",
+        
       "99": {
         "label_04": "",
       }
@@ -95,7 +98,8 @@
 
       "choose_List": "Do kterého seznamu chcete přidat poznámku?",
 
-      "insert_Checkbox": "Vložte zaškrtávací pole",
+      "title_Checkbox": "Vložte zaškrtávací pole",
+      "content_Checkbox": "Stačí stisknout zaškrtávací pole a poté 'OK'",
 
       "99": {
         "label_04": "",
