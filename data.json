@@ -70,7 +70,7 @@
       "new_List": "+ new list",
       "new_List": "Enter a name for the new list",
 
-      "choose_List": "Which list to add a note to?",
+      "choose_List": "Which list do you want to add a note to?",
 
       "99": {
         "label_04": "",
@@ -93,7 +93,9 @@
       "new_List": "+ nový seznam",
       "new_List_Name": "Zadejte název nového seznamu.",
 
-      "choose_List": "Do kterého seznamu přidat poznámku?",
+      "choose_List": "Do kterého seznamu chcete přidat poznámku?",
+
+      "insert_Checkbox": "Vložte zaškrtávací pole",
 
       "99": {
         "label_04": "",
