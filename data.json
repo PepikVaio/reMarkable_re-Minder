@@ -78,11 +78,24 @@
       "99": {
         "label_04": "Using text as a quick option",
         "label_05": "Using voice as a quick option",
+        "label_06": "Automatic synchronisation settings",
         "content_04-05_Title": "Notification settings",
         "content_04-05_Content": [
           "",
           "Once you turn this setting on, the shortcut menu will still skip.",
           "If you want to access the shortcut settings again, you will need to delete the *json file stored on your iPhone in the folder 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
+        ],
+        "content_06_Time_Day": [
+          "Please enter the days on which you want to start the synchronization with your reMarkable."
+          "You can also enter multiple days separated by a comma, for example (mon, tue, wed, ...)."
+        ],
+        "content_06_Time_Start": [
+          "Please enter the synchronisation start time."
+          "Enter in hh:mm format, for example as follows (08:00)."
+        ],
+        "content_06_Time_End": [
+          "Please enter the hour of the end of the synchronization, between the start and end of the synchronization it will not be possible to run the shortcut in the classic way, so enter a smaller range."
+          "Enter in the same format as in the previous step."
         ]
       }
     },
@@ -111,11 +124,24 @@
       "99": {
         "label_04": "Použít text jako rychlou volbu",
         "label_05": "Použít hlas jako rychlou volbu",
+        "label_06": "Nastavení automatické synchronizace",
         "content_04-05_Title": "Upozornění nastavení",
         "content_04-05_Content": [
           "",
           "Jakmile toto nastavení zapnete, bude se vžy přeskakovat menu zkratky.",
           "Pokud budete chtít opět zpřístupnit nastavení zkratky, budete muset smazat *json soubor uložený ve vašem iPhone ve složce 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
+        ],
+        "content_06_Time_Day": [
+          "Zadejte prosím dny, ve kterých chete spustit synchronizaci se svým reMarkablem."
+          "Můžete zadat i více dnů oddělených čárkou, například takto (po, út, st, ...)."
+        ],
+        "content_06_Time_Start": [
+          "Zadejte prosím hodinu začátku synchronizace."
+          "Zadejte ve formátu hh:mm, například takto (08:00)."
+        ],
+        "content_06_Time_End": [
+          "Zadejte prosím hodinu konce synchronizace, mezi začátkem a koncem synchronizace nebude možné spustit zkratku klasickým způsobem, proto zadávejte menší rozsah."
+          "Zadejte stejným formátem, jako v předešlém kroku."
         ]
       }
     }
