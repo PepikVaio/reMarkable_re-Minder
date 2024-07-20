@@ -76,8 +76,8 @@
       "content_Checkbox": "Just press the check box and then press 'OK'",
         
       "99": {
-        "label_04": "Use text as a quick setting",
-        "label_05": "Use voice as a quick setting",
+        "label_04": "Using text as a quick option",
+        "label_05": "Using voice as a quick option",
         "content_04-05_Title": "Notification settings",
         "content_04-05_Content": [
           "",
@@ -109,8 +109,8 @@
       "content_Checkbox": "Stačí stisknout zaškrtávací pole a poté stisknout 'OK'",
 
       "99": {
-        "label_04": "Použít text jako rychlé nastavení",
-        "label_05": "Použít hlas jako rychlé nastavení",
+        "label_04": "Použít text jako rychlou volbu",
+        "label_05": "Použít hlas jako rychlou volbu",
         "content_04-05_Title": "Upozornění nastavení",
         "content_04-05_Content": [
           "",
