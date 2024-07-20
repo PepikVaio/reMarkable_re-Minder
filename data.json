@@ -73,10 +73,16 @@
       "choose_List": "Which list do you want to add a note to?",
 
       "title_Checkbox": "Insert checkbox",
-      "content_Checkbox": "Just press the checkbox and then 'OK'",
+      "content_Checkbox": "Just press the check box and then press 'OK'",
         
       "99": {
-        "label_04": "",
+        "label_04": "Write note as main",
+        "label_05": "To annotate a note as the main",
+        "content_04-05_Title": "Notification settings",
+        "content_04-05_Content": [
+          "Once you turn this setting on, the shortcut menu will still skip.",
+          "If you want to access the shortcut settings again, you will need to delete the *json file stored on your iPhone in the folder 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
+        ]
       }
     },
 
@@ -99,10 +105,16 @@
       "choose_List": "Do kterého seznamu chcete přidat poznámku?",
 
       "title_Checkbox": "Vložte zaškrtávací pole",
-      "content_Checkbox": "Stačí stisknout zaškrtávací pole a poté 'OK'",
+      "content_Checkbox": "Stačí stisknout zaškrtávací pole a poté stisknout 'OK'",
 
       "99": {
-        "label_04": "",
+        "label_04": "Zapsat poznámku jako hlavní",
+        "label_05": "Nadikotvat poznámku jako hlavní",
+        "content_04-05_Title": "Upozornění nastavení",
+        "content_04-05_Content": [
+          "Jakmile toto nastavení zapnete, bude se vžy přeskakovat menu zkratky.",
+          "Pokud budete chtít opět zpřístupnit nastavení zkratky, budete muset smazat *json soubor uložený ve vašem iPhone ve složce 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
+        ]
       }
     }
   }
