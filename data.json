@@ -80,6 +80,7 @@
         "label_05": "Use voice as a quick setting",
         "content_04-05_Title": "Notification settings",
         "content_04-05_Content": [
+          "",
           "Once you turn this setting on, the shortcut menu will still skip.",
           "If you want to access the shortcut settings again, you will need to delete the *json file stored on your iPhone in the folder 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
         ]
@@ -112,6 +113,7 @@
         "label_05": "Použít hlas jako rychlé nastavení",
         "content_04-05_Title": "Upozornění nastavení",
         "content_04-05_Content": [
+          "",
           "Jakmile toto nastavení zapnete, bude se vžy přeskakovat menu zkratky.",
           "Pokud budete chtít opět zpřístupnit nastavení zkratky, budete muset smazat *json soubor uložený ve vašem iPhone ve složce 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
         ]
