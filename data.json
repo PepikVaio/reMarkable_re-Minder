@@ -76,8 +76,8 @@
       "content_Checkbox": "Just press the check box and then press 'OK'",
         
       "99": {
-        "label_04": "Write note as main",
-        "label_05": "To annotate a note as the main",
+        "label_04": "Use text as a quick setting",
+        "label_05": "Use voice as a quick setting",
         "content_04-05_Title": "Notification settings",
         "content_04-05_Content": [
           "Once you turn this setting on, the shortcut menu will still skip.",
@@ -108,8 +108,8 @@
       "content_Checkbox": "Stačí stisknout zaškrtávací pole a poté stisknout 'OK'",
 
       "99": {
-        "label_04": "Zapsat poznámku jako hlavní",
-        "label_05": "Nadikotvat poznámku jako hlavní",
+        "label_04": "Použít text jako rychlé nastavení",
+        "label_05": "Použít hlas jako rychlé nastavení",
         "content_04-05_Title": "Upozornění nastavení",
         "content_04-05_Content": [
           "Jakmile toto nastavení zapnete, bude se vžy přeskakovat menu zkratky.",
