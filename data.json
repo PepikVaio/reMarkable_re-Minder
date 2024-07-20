@@ -68,7 +68,7 @@
       },
 
       "new_List": "+ new list",
-      "new_List": "Enter a name for the new list",
+      "new_List_Name": "Enter a name for the new list",
 
       "choose_List": "Which list do you want to add a note to?",
 
