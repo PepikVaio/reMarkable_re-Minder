@@ -82,8 +82,8 @@
         "content_04-05_Title": "Notification settings",
         "content_04-05_Content": [
           "",
-          "Once you turn this setting on, the shortcut menu will still skip.",
-          "If you want to access the shortcut settings again, you will need to delete the *json file stored on your iPhone in the folder 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
+          "* Once you turn this setting on, the shortcut menu will still skip.",
+          "* If you want to access the shortcut settings again, you will need to delete the *json file stored on your iPhone in the folder 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
         ],
         "content_06_Time_Day": [
           "Please enter the days on which you want to start the synchronization with your reMarkable.",
@@ -94,7 +94,8 @@
           "Enter in hh:mm format, for example as follows (08:00)."
         ],
         "content_06_Time_End": [
-          "Please enter the hour of the end of the synchronization, between the start and end of the synchronization it will not be possible to run the shortcut in the classic way, so enter a smaller range.",
+          "Please enter the end time of the synchronisation.",
+          "It will not be possible to run the shortcut in the classic way between the start and end of the synchronization, so enter a smaller range.",
           "Enter in the same format as in the previous step."
         ]
       }
@@ -128,8 +129,8 @@
         "content_04-05_Title": "Upozornění nastavení",
         "content_04-05_Content": [
           "",
-          "Jakmile toto nastavení zapnete, bude se vžy přeskakovat menu zkratky.",
-          "Pokud budete chtít opět zpřístupnit nastavení zkratky, budete muset smazat *json soubor uložený ve vašem iPhone ve složce 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
+          "* Jakmile toto nastavení zapnete, bude se vžy přeskakovat menu zkratky.",
+          "* Pokud budete chtít opět zpřístupnit nastavení zkratky, budete muset smazat *json soubor uložený ve vašem iPhone ve složce 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
         ],
         "content_06_Time_Day": [
           "Zadejte prosím dny, ve kterých chete spustit synchronizaci se svým reMarkablem.",
@@ -137,11 +138,12 @@
         ],
         "content_06_Time_Start": [
           "Zadejte prosím hodinu začátku synchronizace.",
-          "Zadejte ve formátu hh:mm, například takto (08:00)."
+          "Zadávejte ve formátu hh:mm, například takto (08:00)."
         ],
         "content_06_Time_End": [
-          "Zadejte prosím hodinu konce synchronizace, mezi začátkem a koncem synchronizace nebude možné spustit zkratku klasickým způsobem, proto zadávejte menší rozsah.",
-          "Zadejte stejným formátem, jako v předešlém kroku."
+          "Zadejte prosím hodinu konce synchronizace.",
+          "Mezi začátkem a koncem synchronizace nebude možné spustit zkratku klasickým způsobem, proto zadávejte menší rozsah.",
+          "Zadávejte stejným formátem, jako v předešlém kroku."
         ]
       }
     }
