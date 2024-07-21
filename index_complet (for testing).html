@@ -7,66 +7,69 @@
     <style>
         
 body {
-/* Pro Brackets (for testing) */
+/* For Brackets (for testing) */
+/*
 	width: 1404px;
 	min-height: 1872px;
+*/
 
-/* Pro iMac (for testing) */
+/* For iMac (for testing) */
+/*
 	width: 1186px;
 	min-height: 1679px;
+*/
 
-/* Pro iPhone */
-	width: 1222px;
-	min-height: 1582px;
+/* For iPhone */
+	width: 100%;
 
 	margin: 0;
 	padding: 0;
 	position: absolute;
-	border: solid red 1px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	justify-content: flex-end;
-}        
+}
 
 header {
 	height: 230px;
 	color: black;
-	position: absolute;
-	top: 50px;
-	left: 30px;
-	right: 30px;
-	padding-left: 85px;
-	padding-right: 85px;
 	display: flex;
     flex-direction: column;
-}  
+	position: absolute;
+	top: 30px;
+	left: 10px;
+	right: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
 
 header h1 {
 	font-size: 30px;
     position: relative;
 	top: 50px;
     left: 0px;
-} 
+}
 
 header h1:first-letter {
 	font-size: 100px;
 	color: red;
 	float: left;
 	margin-top: -30px;
-}  
+}
 
 header h2 {
 	font-size: 50px;
 	position: relative;
-	top: -85px;
+	top: -70px;
     left: 96.5px;
-}   
+}
 
 section {
 	width: calc(100% - 60px);
 	height: auto;
 	display: flex;
+	position: absolute;
+	top: 270px;
 	flex-direction: column;
 	margin-bottom: 55px;
 }
@@ -80,39 +83,49 @@ subsection {
 }
 
 label {
-	height: 40px;
+	height: 30px;
 	font-size: 20px;
+    font-weight: bold;
 	display: flex;
 	align-items: center;
-	padding-left: 30px;
-    
-    border-color: red;
+	padding-left: 10px;
 }
 
 ul {
     font-size: 20px;
-    min-height: 180px;
-    border: 3px solid black;
+    min-height: 100px;
+    border: 2px solid black;
     border-radius: 15px;
     list-style-type: none;
-    padding-top: 25px;
-    padding-bottom: 10px;
-    padding-left: 30px;
-    margin-top: 5px;
-    margin-bottom: 30px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+li {
+    min-height: 45px;
+    display: flex;
+    align-items: center;
+	border-top: #7f7f7f dotted 1px;
 }
 
 li::before {
-    font-size: 20px;
     margin-right: 10px;
+}
+
+li:first-child {
+    border-top: none;
 }
 
 .container_Left ul li::before {
     content: "\2610";
+    font-size: 35px;
 }
 
 .container_Right ul li::before {
-    content: "\2714";
+    content: "\2713";
     color: red;
 }
 
@@ -122,20 +135,20 @@ li::before {
 	justify-content: space-between;
 }
 
-.container_Left {width: 58.5%;}
-.container_Right {width: 38.5%;}        
+.container_Left {width: 59%;}
+.container_Right {width: 39%;}
 
 table {
 	width: 100%;
 	border-spacing: 0px;
 	position: relative;
-	border-top: solid 5px;
+	border-top: solid 2px;
 }
 
 table td {
-	height: 54px;
+	height: 25px;
 	font-size: 25px;
-	border-bottom: #7f7f7f dotted 2px;
+	border-bottom: #7f7f7f dotted 1px;
 	padding-left: 10px;
 }
 
@@ -163,7 +176,11 @@ table td {
             <text>proces_Name</text>
           </label>
           <ul>
-              <li>proces_Task</li>
+            <li>proces_Task</li>
+            <li>proces_Task</li>
+            <li>proces_Task</li>
+            <li>proces_Task</li>
+            <li>proces_Task</li>
           </ul>
         </subsection>
       </div>
@@ -177,69 +194,9 @@ table td {
             <text>done_Name</text>
           </label>
           <ul>
-              <li>done_Task</li>
-          </ul>
-        </subsection>
-      </div>
-    </div>
-
-    <div class="container_Row">
-
-<!--
-      * Left side
--->
-      <div class="container_Left">
-        <subsection>
-          <label>
-            <text>proces_Name</text>
-          </label>
-          <ul>
-              <li>proces_Task</li>
-          </ul>
-        </subsection>
-      </div>
-
-<!--
-      * Right side
--->
-      <div class="container_Right">
-        <subsection>
-          <label>
-            <text>done_Name</text>
-          </label>
-          <ul>
-              <li>done_Task</li>
-          </ul>
-        </subsection>
-      </div>
-    </div>
-
-    <div class="container_Row">
-
-<!--
-      * Left side
--->
-      <div class="container_Left">
-        <subsection>
-          <label>
-            <text>proces_Name</text>
-          </label>
-          <ul>
-              <li>proces_Task</li>
-          </ul>
-        </subsection>
-      </div>
-
-<!--
-      * Right side
--->
-      <div class="container_Right">
-        <subsection>
-          <label>
-            <text>done_Name</text>
-          </label>
-          <ul>
-              <li>done_Task</li>
+            <li>done_Task</li>
+            <li>done_Task</li>
+            <li>done_Task</li>
           </ul>
         </subsection>
       </div>
@@ -259,7 +216,7 @@ table td {
           <tr><td></td></tr>
           <tr><td></td></tr>
           <tr><td></td></tr>
-       </tbody>
+        </tbody>
       </table>
     </subsection>
   </section>
