@@ -59,6 +59,7 @@
 
       "process":"ToDo",
       "done":"Done",
+      "notes":"Notes:",
 
       "01": {
         "title": "Write a note",
@@ -114,6 +115,7 @@
 
       "process":"K vyřízení",
       "done":"Hotové",
+      "notes":"Poznámky:",
 
       "01": {
         "title": "Zapsat poznámku",
