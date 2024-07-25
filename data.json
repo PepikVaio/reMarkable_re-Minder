@@ -67,6 +67,11 @@
         "content": "Write a note using dictation ..."
       },
 
+      "03": {
+        "title": "Sync",
+        "content": "Manual sync with reMarkable ..."
+      },
+
       "new_List": "+ new list",
       "new_List_Name": "Enter a name for the new list",
 
@@ -112,6 +117,11 @@
       "02": {
         "title": "Nadiktovat poznámku",
         "content": "Zapište poznámku pomocí diktování ..."
+      },
+
+      "03": {
+        "title": "Synchronizovat",
+        "content": "Ruční synchronizace s reMarkablem ..."
       },
 
       "new_List": "+ nový seznam",
