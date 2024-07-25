@@ -92,7 +92,8 @@
         "content_04-05_Content": [
           "",
           "* Once you turn this setting on, the shortcut menu will still skip.",
-          "* If you want to access the shortcut settings again, you will need to delete the *json file stored on your iPhone in the folder 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
+          "* If you want to access the shortcut settings again, you will need to delete the *json file stored on your iPhone in the folder 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'.",
+          "* Automatická aktualizace tím ovlivněná nebude."
         ],
         "content_06_Time_Day": [
           "Please enter the days on which you want to start the synchronization with your reMarkable.",
@@ -148,7 +149,8 @@
         "content_04-05_Content": [
           "",
           "* Jakmile toto nastavení zapnete, bude se vžy přeskakovat menu zkratky.",
-          "* Pokud budete chtít opět zpřístupnit nastavení zkratky, budete muset smazat *json soubor uložený ve vašem iPhone ve složce 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'."
+          "* Pokud budete chtít opět zpřístupnit nastavení zkratky, budete muset smazat *json soubor uložený ve vašem iPhone ve složce 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'.",
+          "* Automatická aktualizace tím ovlivněná nebude."
         ],
         "content_06_Time_Day": [
           "Zadejte prosím dny, ve kterých chete spustit synchronizaci se svým reMarkablem.",
