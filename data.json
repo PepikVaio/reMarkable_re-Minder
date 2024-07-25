@@ -57,6 +57,9 @@
     "lang_en": {
       "title": "Select the enrolment style!",
 
+      process:"ToDo",
+      done:"Done",
+
       "01": {
         "title": "Write a note",
         "content": "Write a note using the keyboard ...",
@@ -108,6 +111,9 @@
 
     "lang_cs": {
       "title": "Vyberte styl zápisu!",
+
+      process:"K vyřízení",
+      done:"Hotové",
 
       "01": {
         "title": "Zapsat poznámku",
