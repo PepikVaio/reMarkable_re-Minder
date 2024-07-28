@@ -57,9 +57,11 @@
     "lang_en": {
       "title": "Select the enrolment style!",
 
-      "process":"ToDo",
-      "done":"Done",
-      "notes":"Notes:",
+      "pdf_Title": "Welcome to re-Minder!",
+      "pdf_Subtitle": "Create tasks like magic",
+      "pdf_Process":"ToDo",
+      "pdf_Done":"Done",
+      "pdf_Notes":"Notes:",
 
       "01": {
         "title": "Write a note",
@@ -83,9 +85,6 @@
 
       "title_Checkbox": "Insert checkbox",
       "content_Checkbox": "Just press the check box and then press 'OK'",
-
-      "title_PDF": "Welcome to re-Minder!",
-      "subtitle_PDF": "Create tasks like magic",
         
       "99": {
         "label_04": "Using text as a quick option",
@@ -117,9 +116,11 @@
     "lang_cs": {
       "title": "Vyberte styl zápisu!",
 
-      "process":"K vyřízení",
-      "done":"Hotové",
-      "notes":"Poznámky:",
+      "pdf_Title": "Vítejte v re-Minder!",
+      "pdf_Subtitle": "Vytvářejte úkoly jako kouzlo",
+      "pdf_Process":"K vyřízení",
+      "pdf_Done":"Hotové",
+      "pdf_Notes":"Poznámky:",
 
       "01": {
         "title": "Zapsat poznámku",
@@ -143,9 +144,6 @@
 
       "title_Checkbox": "Vložte zaškrtávací pole",
       "content_Checkbox": "Stačí stisknout zaškrtávací pole a poté stisknout 'OK'",
-
-      "title_PDF": "Vítejte v re-Minder!",
-      "subtitle_PDF": "Vytvářejte úkoly jako kouzlo",
 
       "99": {
         "label_04": "Použít text jako rychlou volbu",
