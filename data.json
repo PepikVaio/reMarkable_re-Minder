@@ -83,6 +83,9 @@
 
       "title_Checkbox": "Insert checkbox",
       "content_Checkbox": "Just press the check box and then press 'OK'",
+
+      "title_PDF": "Welcome to re-Minder!",
+      "subtitle_PDF": "Create tasks like magic",
         
       "99": {
         "label_04": "Using text as a quick option",
@@ -140,6 +143,9 @@
 
       "title_Checkbox": "Vložte zaškrtávací pole",
       "content_Checkbox": "Stačí stisknout zaškrtávací pole a poté stisknout 'OK'",
+
+      "title_PDF": "Vítejte v re-Minder!",
+      "subtitle_PDF": "Vytvářejte úkoly jako kouzlo",
 
       "99": {
         "label_04": "Použít text jako rychlou volbu",
