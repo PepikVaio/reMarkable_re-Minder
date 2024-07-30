@@ -5,7 +5,7 @@
 
 
 # Extractor!
-Vytvářejte úkoly jako kouzlo.
+Create tasks like magic
 * No hack.
 
 ## Description
