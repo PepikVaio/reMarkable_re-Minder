@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/remarkable_Extractor?tab=License-1-ov-file)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/remarkable_Extractor/blob/main/.language_cs/LICENSE.cs.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/remarkable_re-Minder?tab=License-1-ov-file)
+[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/remarkable_re-Minder/blob/main/.language_cs/LICENSE.cs.md)
 
 
 ## Creative Commons Attribution-NonCommercial-NoDerivs 4.0
