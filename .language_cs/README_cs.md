@@ -5,7 +5,7 @@
 
 
 # Extractor!
-Vytvořte si vlastní *pdf jako kouzlo.
+Vytvářejte úkoly jako kouzlo.
 * Není potřeba žádný hack.
 
 ## Popis
