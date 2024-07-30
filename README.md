@@ -5,7 +5,7 @@
 
 
 # re-Minder!
-Create tasks like magic
+Create tasks like magic.
 * No hack.
 
 ## Description
