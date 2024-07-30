@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/remarkable_Extractor?tab=security-ov-file)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/remarkable_Extractor/blob/main/.language_cs/SECURITY.cs.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/remarkable_re-Minder?tab=security-ov-file)
+[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/remarkable_re-Minder/blob/main/.language_cs/SECURITY.cs.md)
 
 
 # Bezpečnostní politika a postup
