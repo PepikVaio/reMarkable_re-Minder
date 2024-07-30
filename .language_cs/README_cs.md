@@ -4,7 +4,7 @@
 
 
 
-# Extractor!
+# re-Minder!
 Vytvářejte úkoly jako kouzlo.
 * Není potřeba žádný hack.
 
