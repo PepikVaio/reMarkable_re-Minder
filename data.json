@@ -99,7 +99,7 @@
           "",
           "* Once you turn this setting on, the shortcut menu will still skip.",
           "* If you want to access the shortcut settings again, you will need to delete the *json file stored on your iPhone in the folder 'iCloud Drive/Shortcuts/@Wajsar_Josef/re-Minder!'.",
-          "* Automatická aktualizace tím ovlivněná nebude."
+          "* Automatic updates will not be affected."
         ],
         "content_06_Time_Day": [
           "Please enter the days on which you want to start the synchronization with your reMarkable.",
