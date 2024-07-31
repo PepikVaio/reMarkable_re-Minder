@@ -68,7 +68,6 @@
         "content": "Write a note using dictation ..."
       },
 
-      /* Pro 01 i 02, proto to není v seznamu ale samostatně */
       "list_Choose": "Which list do you want to add a note to?",
       "list_New": "+ new list",
       "list_New_Name": "Enter a name for the new list",
@@ -87,7 +86,7 @@
         "pdf_Subtitle": "Create tasks like magic",
         "pdf_Process":"ToDo",
         "pdf_Done":"Done",
-        "pdf_Notes":"Notes:",
+        "pdf_Notes":"Notes:"
       },
 
       "99": {
@@ -132,7 +131,6 @@
         "content": "Zapište poznámku pomocí diktování ..."
       },
 
-      /* Pro 01 i 02, proto to není v seznamu ale samostatně */
       "list_Choose": "Do kterého seznamu chcete přidat poznámku?",
       "list_New": "+ nový seznam",
       "list_New_Name": "Zadejte název nového seznamu.",
@@ -151,7 +149,7 @@
         "pdf_Subtitle": "Vytvářejte úkoly jako kouzlo",
         "pdf_Process":"K vyřízení",
         "pdf_Done":"Hotové",
-        "pdf_Notes":"Poznámky:",
+        "pdf_Notes":"Poznámky:"
       },
 
       "99": {
