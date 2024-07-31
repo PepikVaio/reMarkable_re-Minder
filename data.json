@@ -55,21 +55,15 @@
   "menu": {
       
     "lang_en": {
-      "title": "Select the enrolment style!",
 
-      "pdf_Title": "Welcome to re-Minder!",
-      "pdf_Subtitle": "Create tasks like magic",
-      "pdf_Process":"ToDo",
-      "pdf_Done":"Done",
-      "pdf_Notes":"Notes:",
-      "no_Export_Title":"No tasks to export",
-      "no_Export_Content":"You have no tasks in Apple Notes to sync with reMarkable.",
+      "title": "Select the enrolment style!",
 
       "01": {
         "title": "Write a note",
         "content": "Write a note using the keyboard ...",
         "content_02": "Write the text of the note"
       },
+
       "02": {
         "title": "Dictate notes",
         "content": "Write a note using dictation ..."
@@ -80,18 +74,28 @@
         "content": "Manual sync with reMarkable ..."
       },
 
-      "new_List": "+ new list",
-      "new_List_Name": "Enter a name for the new list",
+      "list_Choose": "Which list do you want to add a note to?",
+      "list_New": "+ new list",
+      "list_New_Name": "Enter a name for the new list",
 
-      "choose_List": "Which list do you want to add a note to?",
 
-      "title_Checkbox": "Insert checkbox",
-      "content_Checkbox": "Just press the check box and then press 'OK'",
+      "checkbox_Title": "Insert checkbox",
+      "checkbox_Content": "Just press the check box and then press 'OK'",
         
+      "no_Export_Title":"No tasks to export",
+      "no_Export_Content":"You have no tasks in Apple Notes to sync with reMarkable.",
+
+      "pdf_Title": "Welcome to re-Minder!",
+      "pdf_Subtitle": "Create tasks like magic",
+      "pdf_Process":"ToDo",
+      "pdf_Done":"Done",
+      "pdf_Notes":"Notes:",
+
       "99": {
         "label_04": "Using text as a quick option",
         "label_05": "Using voice as a quick option",
         "label_06": "Automatic synchronisation settings",
+
         "content_04-05_Title": "Notification settings",
         "content_04-05_Content": [
           "",
@@ -116,21 +120,15 @@
     },
 
     "lang_cs": {
-      "title": "Vyberte styl zápisu!",
 
-      "pdf_Title": "Vítejte v re-Minder!",
-      "pdf_Subtitle": "Vytvářejte úkoly jako kouzlo",
-      "pdf_Process":"K vyřízení",
-      "pdf_Done":"Hotové",
-      "pdf_Notes":"Poznámky:",
-      "no_Export_Title":"Žádné úkoly k exportu",
-      "no_Export_Content":"V Apple poznámkách nemáte žádné úkoly k synchronizaci s reMarkable.",
+      "title": "Vyberte styl zápisu!",
 
       "01": {
         "title": "Zapsat poznámku",
         "content": "Zapište poznámku pomocí klávesnice ...",
         "content_02": "Zapište text poznámky."
       },
+
       "02": {
         "title": "Nadiktovat poznámku",
         "content": "Zapište poznámku pomocí diktování ..."
@@ -141,18 +139,27 @@
         "content": "Ruční synchronizace s reMarkablem ..."
       },
 
-      "new_List": "+ nový seznam",
-      "new_List_Name": "Zadejte název nového seznamu.",
+      "list_Choose": "Do kterého seznamu chcete přidat poznámku?",
+      "list_New": "+ nový seznam",
+      "list_New_Name": "Zadejte název nového seznamu.",
 
-      "choose_List": "Do kterého seznamu chcete přidat poznámku?",
+      "checkbox_Title": "Vložte zaškrtávací pole",
+      "checkbox_Content": "Stačí stisknout zaškrtávací pole a poté stisknout 'OK'",
 
-      "title_Checkbox": "Vložte zaškrtávací pole",
-      "content_Checkbox": "Stačí stisknout zaškrtávací pole a poté stisknout 'OK'",
+      "no_Export_Title":"Žádné úkoly k exportu",
+      "no_Export_Content":"V Apple poznámkách nemáte žádné úkoly k synchronizaci s reMarkable.",
+
+      "pdf_Title": "Vítejte v re-Minder!",
+      "pdf_Subtitle": "Vytvářejte úkoly jako kouzlo",
+      "pdf_Process":"K vyřízení",
+      "pdf_Done":"Hotové",
+      "pdf_Notes":"Poznámky:",
 
       "99": {
         "label_04": "Použít text jako rychlou volbu",
         "label_05": "Použít hlas jako rychlou volbu",
         "label_06": "Nastavení automatické synchronizace",
+
         "content_04-05_Title": "Upozornění nastavení",
         "content_04-05_Content": [
           "",
