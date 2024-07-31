@@ -68,6 +68,7 @@
         "content": "Write a note using dictation ..."
       },
 
+      /* Pro 01 i 02, proto to není v seznamu ale samostatně */
       "list_Choose": "Which list do you want to add a note to?",
       "list_New": "+ new list",
       "list_New_Name": "Enter a name for the new list",
@@ -131,6 +132,7 @@
         "content": "Zapište poznámku pomocí diktování ..."
       },
 
+      /* Pro 01 i 02, proto to není v seznamu ale samostatně */
       "list_Choose": "Do kterého seznamu chcete přidat poznámku?",
       "list_New": "+ nový seznam",
       "list_New_Name": "Zadejte název nového seznamu.",
