@@ -55,7 +55,6 @@
   "menu": {
       
     "lang_en": {
-
       "title": "Select the enrolment style!",
 
       "01": {
@@ -69,27 +68,27 @@
         "content": "Write a note using dictation ..."
       },
 
-      "03": {
-        "title": "Sync",
-        "content": "Manual sync with reMarkable ..."
-      },
-
+      /* Pro 01 i 02, proto to není v seznamu ale samostatně */
       "list_Choose": "Which list do you want to add a note to?",
       "list_New": "+ new list",
       "list_New_Name": "Enter a name for the new list",
 
-
       "checkbox_Title": "Insert checkbox",
       "checkbox_Content": "Just press the check box and then press 'OK'",
-        
-      "no_Export_Title":"No tasks to export",
-      "no_Export_Content":"You have no tasks in Apple Notes to sync with reMarkable.",
 
-      "pdf_Title": "Welcome to re-Minder!",
-      "pdf_Subtitle": "Create tasks like magic",
-      "pdf_Process":"ToDo",
-      "pdf_Done":"Done",
-      "pdf_Notes":"Notes:",
+      "03": {
+        "title": "Sync",
+        "content": "Manual sync with reMarkable ...",
+
+        "no_Export_Title":"No tasks to export",
+        "no_Export_Content":"You have no tasks in Apple Notes to sync with reMarkable.",
+
+        "pdf_Title": "Welcome to re-Minder!",
+        "pdf_Subtitle": "Create tasks like magic",
+        "pdf_Process":"ToDo",
+        "pdf_Done":"Done",
+        "pdf_Notes":"Notes:",
+      },
 
       "99": {
         "label_04": "Using text as a quick option",
@@ -120,7 +119,6 @@
     },
 
     "lang_cs": {
-
       "title": "Vyberte styl zápisu!",
 
       "01": {
@@ -134,11 +132,7 @@
         "content": "Zapište poznámku pomocí diktování ..."
       },
 
-      "03": {
-        "title": "Synchronizovat",
-        "content": "Ruční synchronizace s reMarkablem ..."
-      },
-
+      /* Pro 01 i 02, proto to není v seznamu ale samostatně */
       "list_Choose": "Do kterého seznamu chcete přidat poznámku?",
       "list_New": "+ nový seznam",
       "list_New_Name": "Zadejte název nového seznamu.",
@@ -146,14 +140,19 @@
       "checkbox_Title": "Vložte zaškrtávací pole",
       "checkbox_Content": "Stačí stisknout zaškrtávací pole a poté stisknout 'OK'",
 
-      "no_Export_Title":"Žádné úkoly k exportu",
-      "no_Export_Content":"V Apple poznámkách nemáte žádné úkoly k synchronizaci s reMarkable.",
+      "03": {
+        "title": "Synchronizovat",
+        "content": "Ruční synchronizace s reMarkablem ...",
 
-      "pdf_Title": "Vítejte v re-Minder!",
-      "pdf_Subtitle": "Vytvářejte úkoly jako kouzlo",
-      "pdf_Process":"K vyřízení",
-      "pdf_Done":"Hotové",
-      "pdf_Notes":"Poznámky:",
+        "no_Export_Title":"Žádné úkoly k exportu",
+        "no_Export_Content":"V Apple poznámkách nemáte žádné úkoly k synchronizaci s reMarkable.",
+
+        "pdf_Title": "Vítejte v re-Minder!",
+        "pdf_Subtitle": "Vytvářejte úkoly jako kouzlo",
+        "pdf_Process":"K vyřízení",
+        "pdf_Done":"Hotové",
+        "pdf_Notes":"Poznámky:",
+      },
 
       "99": {
         "label_04": "Použít text jako rychlou volbu",
