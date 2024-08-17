@@ -59,7 +59,7 @@
       // "install_Title": ...
       // "install_Content": ...
       // "installed_Title": ...
-      "installed_News	": [
+      "installed_News": [
         "",
         "*** Novinky ve verzi: ***",
         "------------------------",
@@ -207,7 +207,6 @@
               "Mezi začátkem a koncem synchronizace nebude možné spustit zkratku klasickým způsobem, proto zadávejte menší rozsah.",
               "Zadávejte stejným formátem, jako v předešlém kroku."
             ]
-          }
           // submenu_Reset: ...
           // submenu_Back: ...
       }
@@ -221,4 +220,3 @@
       // "icon_Back": ...
     }
   }
-}
