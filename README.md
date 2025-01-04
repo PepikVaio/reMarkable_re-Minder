@@ -4,7 +4,7 @@
 
 
 
-# reMarkable - re-Minder!
+# re-Minder!
 Create tasks like magic.
 * No hack.
 
